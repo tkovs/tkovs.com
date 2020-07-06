@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Academia"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "user-2.jpg"
+hero_media = "perfil.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -18,11 +18,11 @@ hero_media = "user-2.jpg"
 
   # Background color.
   color = "#fff"
-  
+
   # Background gradient.
   # gradient_start = "#4bb4e3"
   # gradient_end = "#000"
-  
+
   # Background image.
   # image = ""  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -34,14 +34,14 @@ hero_media = "user-2.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [btn]
-  url = "/authors/admin"
-  label = "Know more"
+  url = "/authors/tkovs"
+  label = "Conheça mais"
   
 [btn_alt]
   url = "#contact"
-  label = "Contact me"
+  label = "Entre em contato"
 
 +++
-## My name is **Michael Vahn** and I'm a **Professor** specializing in **Artificial Intelligence**
+## Prazer em conhecê-lo(a), eu sou o **tkovs**
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
+Atualmente desenvolvedor de software front-end, amante de testes e de coding dojos, e músico violonista apaixonado pela música brasileira.
