@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experiencia"
-subtitle = "Minha trajetória e experênciais profissionais"
+title = "Experiência"
+subtitle = "Minha trajetória e experiências profissionais"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -29,6 +29,9 @@ date_format = "Jan 2006"
   
   Responsabilidades:
   - Planejar e implementar soluções a fim de obter prática com acompanhamento dos desenvolvedores do setor
+
+  Tecnologias:
+  - Django
   """
 
 [[experience]]
@@ -94,6 +97,10 @@ date_format = "Jan 2006"
   Responsabilidades:
   - Desenvolver e dar manutenção no inStore.
   - Manter uma entrega contínua garantindo a qualidade através de um bom processo de CI/CD.
+
+  Tecnologias:
+  - React, React Native, Redux
+  - RTL, Cypress
   """
   
 +++
