@@ -54,19 +54,19 @@ date_format = "Jan 2006"
   - MSSQL Server
   """
 
-[[experience]]
-  title = "Técnico de Informática"
-  company = "Wonder Systems Education"
-  company_url = "#"
-  location = "Remoto"
-  date_start = "2018-07-01"
-  date_end = "2019-08-01"
-  description = """
-  Instituição de ensino de inglês através de aulas online ao vivo com professores nativos.
+#[[experience]]
+#  title = "Técnico de Informática"
+#  company = "Wonder Systems Education"
+#  company_url = "#"
+#  location = "Remoto"
+#  date_start = "2018-07-01"
+#  date_end = "2019-08-01"
+#  description = """
+#  Instituição de ensino de inglês através de aulas online ao vivo com professores nativos.
   
-  Responsabilidades:
-  - Manutenção da infraestrutura que suportava a plataforma de livestream das aulas de inglês.
-  """
+#  Responsabilidades:
+#  - Manutenção da infraestrutura que suportava a plataforma de livestream das aulas de inglês.
+#  """
 
 [[experience]]
   title = "Desenvolvedor de Software"

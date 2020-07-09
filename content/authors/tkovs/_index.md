@@ -67,9 +67,7 @@ social:
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+user_groups: []
 ---
 
 João Vitor atualmente é desenvolvedor de software na [VTEX](https://vtex.com). Entre seus interesses está o desenvolvimento de software orientado a testes, integração e entrega contínuas, coding dojos e código livre. Atualmente sua equipe trabalha no app criado pela VTEX que permite a vendedores de lojas físicas atenderem seus clientes de maneira personalizada e completa, da escolha dos produtos certos até o pagamento e a entrega. 
