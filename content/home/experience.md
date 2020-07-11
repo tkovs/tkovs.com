@@ -79,7 +79,7 @@ date_format = "Jan 2006"
   Empresa que oferece serviços de desenvolvimento de software.
 
   Responsabilidades:
-  - Desenvolver e dar manutenção a novas demandas para o aplicativo desktop integrado ao sistema revendido.
+  - Desenvolver e dar manutenção às demandas existentes do aplicativo desktop integrado ao sistema revendido.
 
   Tecnologias:
   - PHP
@@ -95,8 +95,9 @@ date_format = "Jan 2006"
   Plataforma de comércio unificado para negócios unificados.
 
   Responsabilidades:
-  - Desenvolver e dar manutenção no inStore.
-  - Manter uma entrega contínua garantindo a qualidade através de um bom processo de CI/CD.
+  - Criar ferramentas operacionais, automatizar fluxos de trabalho, melhorar e monitorar a infraestrutura.
+  - Criar e manter a arquitetura, qualidade de código e testes automatizados, mantendo uma entrega contínua com uso de um bom processo de CI/CD.
+  - Participar de discussões de tecnologia, elaborar processos e construir ferramentas que elevem a barra de práticas de engenharia, além de fazer parte do processo de contratação e onboarding de novos membros.
 
   Tecnologias:
   - React, React Native, Redux
