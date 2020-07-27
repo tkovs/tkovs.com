@@ -34,4 +34,4 @@ De sexta pra cá (domingo) foi uma aventura, mas consegui aprender a música, ap
 
 {{< youtube Agz1wcm843Y >}}
 
-![png](./porto-de-araujo-completo.jpg)
+![png](./porto-de-araujo.jpg)
