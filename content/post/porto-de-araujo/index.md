@@ -30,8 +30,6 @@ Uma grande tristeza durante minha estadia no Rio de Janeiro foi eu não ter leva
 
 Pra começar, escolhi Porto de Araújo, pelo simples fato de que ultimamente estou apaixonado por essa obra do Guinga em parceria com Paulo Cesar Pinheiro. Pra ser sincero eu sequer sabia o tom dela quando a escolhi, mas depois de procurar pela partitura e não encontrar de graça eu decidi por aprender a tocar a parte do violão na versão do cd Casa de Villa (2007) e transcreve-la em seguida.
 
-De sexta pra cá (domingo) foi uma aventura, mas consegui aprender a música, aprender a ler e escrever partituras, e escrever a partitura + tablatura. O resultado encontra-se logo abaixo. Assim que meu violão voltar do luthier eu gravo o resultado e adiciono aqui.
+De sexta pra cá (domingo) foi uma aventura, mas consegui aprender a música, aprender a ler e escrever partituras, e escrever a partitura + tablatura. O resultado encontra-se em PDF no botão acima. Assim que meu violão voltar do luthier eu gravo o resultado e adiciono aqui.
 
 {{< youtube Agz1wcm843Y >}}
-
-![png](./porto-de-araujo.jpg)
