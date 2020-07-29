@@ -28,20 +28,29 @@ projects: []
 
 Vamos às métricas!
 
-#### Livros
+### Projetos
 
-#### Artigos lidos
+#### Site próprio
 
-#### Artigos publicados
+#### IMDb Crawler
 
-#### Cursos concluídos
+Implementei o [IMDb Crawler](http://localhost:1313/project/imdb-crawler/), um **web scraping** para download de informações relacionadas aos filmes presentes no site IMDb, na seção de lançamentos. Utilizei scrapy para acessar o site e baixar as informações necessárias, compilando tudo em um arquivo no formato json lines.
 
-#### Séries
+### Livros
 
-#### Transcrições
+### Artigos lidos
 
-- [Porto de araujo - Guinga](https://www.tkovs.com/post/porto-de-araujo/)
-- [Meu pai - Guinga](https://www.tkovs.com/post/meu-pai/)
+### Artigos publicados
 
-#### Conclusão
+### Cursos concluídos
+
+### Séries
+
+### Transcrições
+
+#### Porto de Araujo - Guinga
+
+Aprendi e transcrevi [Porto de araujo](https://www.tkovs.com/post/porto-de-araujo/), do Guinga, para partitura e tablatura. Motivado principalmente por não haver material livre na internet. PDF disponível [aqui no blog](/post/porto-de-araujo).
+
+### Conclusão
 
