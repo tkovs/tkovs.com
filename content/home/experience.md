@@ -97,7 +97,7 @@ date_format = "Jan 2006"
   Responsabilidades:
   - Criar ferramentas operacionais, automatizar fluxos de trabalho, melhorar e monitorar a infraestrutura.
   - Criar e manter a arquitetura, qualidade de código e testes automatizados, mantendo uma entrega contínua com uso de um bom processo de CI/CD.
-  - Participar de discussões de tecnologia, elaborar processos e construir ferramentas que elevem a barra de práticas de engenharia, além de fazer parte do processo de contratação e onboarding de novos membros.
+  - Participar de discussões de tecnologia, elaborar processos e construir ferramentas que elevem a barra das práticas de engenharia, além de fazer parte do processo de contratação e onboarding de novos membros.
 
   Tecnologias:
   - React, React Native, Redux
