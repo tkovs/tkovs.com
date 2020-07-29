@@ -4,7 +4,7 @@ subtitle: Transcrição do violão para partitura
 summary: Transcrição do violão para partitura
 authors:
 - tkovs
-tags: []
+tags: [transcrições]
 categories: []
 date: "2020-07-27T00:00:00Z"
 featured: false
@@ -22,7 +22,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [musica]
+projects: []
 
 ---
 
