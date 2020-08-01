@@ -26,10 +26,10 @@ projects: []
 
 ---
 
-Letra e melodia de Guinga, teimei em aprender a tocar "Meu pai" assim que ouvi essa beleza. Quando eu pude, baseado em diversas interpretações do Guinga no youtube, aprendi essa obra no violão.
+Letra e melodia de Guinga, teimei em aprender a tocar "Meu pai" assim que ouvi essa beleza. Quando eu pude, assistindo diversas interpretações do Guinga no youtube, aprendi essa obra no violão.
 
-Essa semana, ouvindo uma interpretação de "Meu pai" no youtube, de um fã do Guinga, vi um comentário de uma pessoa pedindo um video ensinando a tocar a música. Engraçado que eu perguntei se uma partitura ou tablatura serviria, quando nem mesmo eu tinha isso rsrsrs. Rapidamente ele confirmou que sim, então resolvi transcrever a música e disponibilizar aqui. No final das contas o motivo é que se 1 pessoa gostaria de tocar uma música linda dessas mas não pode por não conseguir tirar a música de ouvido ou assistindo alguém tocar, e eu sei tocar a mesma música, não custa nada eu transcrever e disponibilizar, afinal é por isso que estou transcrevendo o que sei ultimamente. 
+Essa semana, ouvindo uma interpretação de "Meu pai" no youtube, de um fã do Guinga, vi um comentário de uma pessoa pedindo um video ensinando a tocar a música. Engraçado que eu perguntei se uma partitura ou tablatura serviria, quando nem mesmo eu tinha isso rsrsrs. Rapidamente ele confirmou que sim, então resolvi transcrever a música e disponibilizar aqui. No final das contas o motivo é que se 1 pessoa gostaria de tocar uma música linda dessas mas não pode toca-la por não conseguir tirar a música de ouvido ou assistindo alguém tocar, não custa nada eu transcrever e disponibilizar, afinal é por isso que estou fazendo isso o que sei ultimamente.
 
-O resultado encontra-se em PDF no botão acima. Você também pode visualizar e executar a partitura no [musescore](https://musescore.com/user/35683888/scores/6275231/s/YP_v4t).
+Essa transcrição de "Meu pai" foi baseada na versão do cd Canção da Impermanência, com voz e violão, mas vocalises no lugar da letra. O resultado encontra-se em PDF no botão acima. Você também pode visualizar e executar a partitura no [musescore](https://musescore.com/user/35683888/scores/6275231/s/YP_v4t).
 
 {{< youtube lKTBnsXqo6E >}}
