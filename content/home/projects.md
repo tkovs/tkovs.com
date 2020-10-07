@@ -28,6 +28,10 @@ subtitle = "Idéias que sairam do papel"
   [[content.filter_button]]
     name = "Data Mining"
     tag = "Data Mining"
+  
+  [[content.filter_button]]
+    name = "Data Tracking"
+    tag = "Data Tracking"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
