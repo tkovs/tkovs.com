@@ -62,9 +62,10 @@ date_format = "Jan 2006"
 #  date_start = "2018-07-01"
 #  date_end = "2019-08-01"
 #  description = """
-#  Instituição de ensino de inglês através de aulas online ao vivo com professores nativos.
+#  Instituição de ensino de inglês através de aulas online ao vivo com professores nativos. Eu era responsável pelo serviço de livestreaming e template WordPress. O objetivo do produto é permitir que os alunos façam aulas com professores de inglês sem nenhum problema de transmissão no lado da aplicação e oferecer recursos que enriqueçam as aulas, como assistir a um vídeo sincronizado.
+
   
-#  Responsabilidades:
+#  Principais atribuições:
 #  - Manutenção da infraestrutura que suportava a plataforma de livestream das aulas de inglês.
 #  """
 
@@ -76,13 +77,13 @@ date_format = "Jan 2006"
   date_start = "2019-03-01"
   date_end = "2019-07-01"
   description = """
-  Empresa que oferece serviços de desenvolvimento de software.
+  Empresa que oferece serviços de desenvolvimento de softwares de alto impacto para empresas, criação de sites, criação de logomarcas e identidade visual, consultoria em desenvolvimento e pesquisa. Responsável pelo desenvolvimento da solução para professores e alunos gerenciar as atividades e acompanharem os resultados através de métricas em dashboards. Projeto implementado em PHP, mantido no Gitlab e servido na AWS.
 
-  Responsabilidades:
-  - Desenvolver e dar manutenção às demandas existentes do aplicativo desktop integrado ao sistema revendido.
-
-  Tecnologias:
-  - PHP
+  Principais atribuições:
+  - Planejar e implementar novas features.
+  - Dar manutenções e refatorar features existentes quando necessário.
+  - Trazer discussões para o time de engenharia a fim de melhorar o processo de desenvolvimento.
+  - Implementar todas as regras de estilo baseadas no projeto de design do Adobe XD.
   """
 
 [[experience]]
@@ -92,16 +93,17 @@ date_format = "Jan 2006"
   location = "Rio de Janeiro - RJ"
   date_start = "2019-08-01"
   description = """
-  Plataforma de comércio unificado para negócios unificados.
+  Responsável pela solução da VTEX para lojas físicas, com o objetivo de levar a digitalização e garantir a melhor solução omnichannel, que conecta o mundo físico do ecommerce.
 
-  Responsabilidades:
+  Entre as tecnologias que utilizamos estão React, React Native, Electron, Redux, RTL, Cypress, Typescript, GraphQL, Github Actions...
+
+  Principais atribuições:
   - Criar ferramentas operacionais, automatizar fluxos de trabalho, melhorar e monitorar a infraestrutura.
   - Criar e manter a arquitetura, qualidade de código e testes automatizados, mantendo uma entrega contínua com uso de um bom processo de CI/CD.
-  - Participar de discussões de tecnologia, elaborar processos e construir ferramentas que elevem a barra das práticas de engenharia, além de fazer parte do processo de contratação e onboarding de novos membros.
-
-  Tecnologias:
-  - React, React Native, Redux
-  - RTL, Cypress
+  - Participar de discussões de tecnologia, elaborar processos e construir ferramentas que elevem a barra das práticas de engenharia.
+  - Fazer parte do processo de contratação e onboarding de novos membros.
+  - Acompanhar ativamente a evolução das tecnologias web.
+  - Metrificar os produtos desenvolvidos. Criar e manter dashboards de visualização de dados e alertas para métricas anormais.
   """
   
 +++
